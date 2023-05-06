@@ -1,0 +1,2 @@
+# Sayisal-Loto
+Sayısal loto
